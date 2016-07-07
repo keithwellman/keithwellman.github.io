@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An interesting iteration to try"
-date:   2016-07-06 18:13:20 +0000
+date:   2016-07-06 14:13:20 -0400
 ---
 
 
@@ -171,7 +171,7 @@ public class TopWords
 }
 ```
 
-This kind of code almost killed by coding spirit. It's hard enough learning to think about code as abstract concepts and models that tell a story. This is why I love writing code in languages like Ruby! The solution written in Ruby would be much more readable and sussinct. 
+This kind of code almost killed by coding spirit. It's a challenge learning to think about code as abstract concepts and models. Add to that having to memorize syntactic requirements that have little meaning to any human reader. It's not an impossible task and one that I've fully embraced, however some languanges can be so much more. With Ruby, I can imagine my code as a model of things and how those things interact. This is why I enjoy writing code in languages like Ruby! The solution written in Ruby would be much more readable. 
 
 Give it a try! I'll post my Ruby solution ... eventually. 
 
